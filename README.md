@@ -1,7 +1,7 @@
 <div align="center">
-  # Wallpapers
-  Format: PNG, JPG, GIF
-<div>
+  <h1>Wallpapers</h1>
+  <h3>Format: PNG, JPG, GIF</h3>
+</div>
 
 Anime
 Cherry Blossoms
