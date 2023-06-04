@@ -1,6 +1,12 @@
 # Wallpapers
 
-
+--------
+Anime
+Cherry Blossoms
+Flowers
+Gruv
+Monochrome
+Pixelart
 
 ## Anime
 ![glitched-girl](Anime/glitched-girl.jpg)
