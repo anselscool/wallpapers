@@ -11,5 +11,5 @@
 
 
 ## Flowers
-![cherry-blossom](Cherry Blossoms/CherryBlossomsBright.jpg)
-![mono-blossoms](Cherry Blossoms/1_pexels-elijah-odonnell-4173624.jpg)
+![cherry-blossom](CherryBlossoms/CherryBlossomsBright.jpg)
+![mono-blossoms](CherryBlossoms/1_pexels-elijah-odonnell-4173624.jpg)
