@@ -1,6 +1,5 @@
 # Wallpapers
 
---------
 Anime
 Cherry Blossoms
 Flowers
