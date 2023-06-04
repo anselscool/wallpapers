@@ -1,4 +1,6 @@
 # Wallpapers
+Format: PNG, JPG, GIF
+
 
 Anime
 Cherry Blossoms
