@@ -3,7 +3,7 @@
 
 
 ## Anime
-![glitched-girl](glitched-girl.jpg)
+![glitched-girl](Anime/glitched-girl.jpg)
 
 ## Landscape
 
