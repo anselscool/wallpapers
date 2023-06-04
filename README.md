@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Wallpapers</h1>
   <h3>Format: PNG, JPG, GIF</h3>
-  <h3>Anime
-  Cherry Blossoms
-  Flowers
-  Gruv
-  Monochrome
-  Pixelart</h3>
+  <h3>Anime</h3>
+  <h3>Cherry Blossoms</h3>
+  <h3>Flowers</h3>
+  <h3>Gruv</h3>
+  <h3>Monochrome</h3>
+  <h3>Pixelart</h3>
 </div>
 ## Anime
 ![](Anime/glitched-girl.jpg)
