@@ -7,8 +7,17 @@
 ![](Anime/reach-for-the-stars-girl.jpg)
 ![](Anime/lo-fi-sailor-moon.gif)
 
-## Landscape
-
+## Cherry Blossoms
+![](Cherry Blossoms/CherryBlossomsBright.jpg)
 
 ## Flowers
-![](CherryBlossoms/CherryBlossomsBright.jpg)
+
+
+## Gruv
+
+
+## Monochrome
+
+
+## Pixelart
+![](Pixelart/image20.png)
