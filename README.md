@@ -8,10 +8,21 @@ Monochrome
 Pixelart
 
 ## Anime
-![glitched-girl](Anime/glitched-girl.jpg)
+![](Anime/glitched-girl.jpg)
 ![](Anime/reach-for-the-stars-girl.jpg)
 ![](Anime/lo-fi-sailor-moon.gif)
-
+![](Anime/arch-girl.png)
+![](Anime/coco-cola-girl.jpg)
+![](Anime/cowboy-beebop/png)
+![](Anime/girl-shell.jpg)
+![](Anime/home.jpeg)
+![](Anime/no-horny.png)
+![](Anime/programmer-girl-II.jpg)
+![](Anime/programmer-girl-III.jpg)
+![](Anime/ubuntu_girl.jpg)
+![](Anime/unknown.png)
+![](Anime/what-a-loser-girl.png)
+![](Anime/window-samurai.jpg)
 ## Cherry Blossoms
 ![](Cherry Blossoms/CherryBlossomsBright.jpg)
 
