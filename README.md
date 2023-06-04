@@ -31,6 +31,11 @@
 ![](Gruv/platform.jpg)
 ![](Gruv/skull-gruv.png)
 ![](Gruv/stairs.jpg)
+![](Gruv/gruvbox_Balcony_wifuless.png)
+![](Gruv/gruvbox_forest-valley-mountains.png)
+![](Gruv/gruvbox_futurecity.png)
+![](Gruv/gruvbox_jp_house.png)
+![](Gruv/gruvbox_oceanrock.png)
 ## Monochrome
 
 
