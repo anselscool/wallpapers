@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Wallpapers</h1>
-  <h3>Format: PNG, JPG, GIF</h3>
+  <h4>Format: PNG, JPG, GIF</h4>
 </div>
 
 ## Anime
