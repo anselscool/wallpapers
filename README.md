@@ -48,7 +48,11 @@
 ![](Gruv/gruvbox_oceanrock.png)
 ## Monochrome
 
-
+## Nord
+![](Nord/mega-charizard-rainbow-II.png)
+![](Nord/mfdoom.png)
+![](Nord/nasa.png)
+![](Nord/photo-1454665448086-47c267180999.png)
 ## Pixelart
 ![](Pixelart/gruvbox_image11.png)
 ![](Pixelart/gruvbox_image15.png)
