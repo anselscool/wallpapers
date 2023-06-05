@@ -2,11 +2,7 @@
   <h1>Wallpapers</h1>
   <h4>Format: PNG, JPG, GIF</h4>
 </div>
-
 ## Anime
-<div align="center">
-  <h4>Anime Wallpapers</h4>
-</div>
 ![](Anime/glitched-girl.jpg)
 ![](Anime/reach-for-the-stars-girl.jpg)
 ![](Anime/lo-fi-sailor-moon.gif)
@@ -26,9 +22,7 @@
 ![](Cherry Blossoms/1681339694796880.png)
 ![](Cherry Blossoms/1_pexels-elijah-odonnell-4173624.jpg)
 ![](Cherry Blossoms/CherryBlossomsBright.jpg)
-
 ## Flowers
-
 
 ## Gruv
 ![](Gruv/gruv-4.jpg)
@@ -42,8 +36,6 @@
 ![](Gruv/gundam.png)
 ![](Gruv/houses.png)
 ![](Gruv/leaves.jpg)
-![](Gruv/mega-charizard-rainbow-II.png)
-![](Gruv/mega-charizard-rainbow-lantern.png)
 ![](Gruv/penguin.jpg)
 ![](Gruv/platform.jpg)
 ![](Gruv/skull-gruv.png)
