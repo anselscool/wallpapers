@@ -53,6 +53,8 @@
 ![](Nord/mfdoom.png)
 ![](Nord/nasa.png)
 ![](Nord/photo-1454665448086-47c267180999.png)
+![](Nord/Group_47.png)
+![](Nord/Group_48.png)
 ## Pixelart
 ![](Pixelart/gruvbox_image11.png)
 ![](Pixelart/gruvbox_image15.png)
