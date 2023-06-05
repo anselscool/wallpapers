@@ -4,7 +4,9 @@
 </div>
 
 ## Anime
-Anime Wallpapers
+<div align="center">
+  <h4>Anime Wallpapers</h4>
+</div>
 ![](Anime/glitched-girl.jpg)
 ![](Anime/reach-for-the-stars-girl.jpg)
 ![](Anime/lo-fi-sailor-moon.gif)
