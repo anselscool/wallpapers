@@ -20,6 +20,9 @@
 ![](Anime/what-a-loser-girl.png)
 ![](Anime/window-samurai.jpg)
 ## Cherry Blossoms
+![](Cherry Blossoms/1681339694796880.png)
+![](Cherry Blossoms/1_pexels-elijah-odonnell-4173624.jpg)
+![](Cherry Blossoms/CherryBlossomsBright.jpg)
 
 ## Flowers
 
