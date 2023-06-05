@@ -4,25 +4,22 @@
 </div>
 
 ## Anime
-<details>
-  <summary>Anime Wallpapers</summary>
-    <img src="https://github.com/anselscool/wallpapers/blob/main/Pixelart/gruvbox_image11.png">
-    ![](Anime/glitched-girl.jpg)
-    ![](Anime/reach-for-the-stars-girl.jpg)
-    ![](Anime/lo-fi-sailor-moon.gif)
-    ![](Anime/arch-girl.png)
-    ![](Anime/coco-cola-girl.jpg)
-    ![](Anime/cowboy-beebop/png)
-    ![](Anime/girl-shell.jpg)
-    ![](Anime/home.jpeg)
-    ![](Anime/no-horny.png)
-    ![](Anime/programmer-girl-II.jpg)
-    ![](Anime/programmer-girl-III.jpg)
-    ![](Anime/ubuntu_girl.jpg)
-    ![](Anime/unknown.png)
-    ![](Anime/what-a-loser-girl.png)
-    ![](Anime/window-samurai.jpg)
-</details>  
+Anime Wallpapers
+![](Anime/glitched-girl.jpg)
+![](Anime/reach-for-the-stars-girl.jpg)
+![](Anime/lo-fi-sailor-moon.gif)
+![](Anime/arch-girl.png)
+![](Anime/coco-cola-girl.jpg)
+![](Anime/cowboy-beebop/png)
+![](Anime/girl-shell.jpg)
+![](Anime/home.jpeg)
+![](Anime/no-horny.png)
+![](Anime/programmer-girl-II.jpg)
+![](Anime/programmer-girl-III.jpg)
+![](Anime/ubuntu_girl.jpg)
+![](Anime/unknown.png)
+![](Anime/what-a-loser-girl.png)
+![](Anime/window-samurai.jpg)
 ## Cherry Blossoms
 ![](Cherry Blossoms/1681339694796880.png)
 ![](Cherry Blossoms/1_pexels-elijah-odonnell-4173624.jpg)
