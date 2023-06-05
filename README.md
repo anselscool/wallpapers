@@ -20,7 +20,6 @@
 ![](Anime/what-a-loser-girl.png)
 ![](Anime/window-samurai.jpg)
 ## Cherry Blossoms
-![](Cherry Blossoms/CherryBlossomsBright.jpg)
 
 ## Flowers
 
