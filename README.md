@@ -55,6 +55,7 @@
 ![](Nord/photo-1454665448086-47c267180999.png)
 ![](Nord/Group_47.png)
 ![](Nord/Group_48.png)
+![](Nord/CPU_City.png)
 ## Pixelart
 ![](Pixelart/gruvbox_image11.png)
 ![](Pixelart/gruvbox_image15.png)
@@ -72,3 +73,9 @@
 ![](Pixelart/image26.png)
 ![](Pixelart/image29.png)
 ![](Pixelart/image35.png)
+![](Pixelart/z6z7uc4qyby51.png)
+![](Pixelart/wallhaven-473djo.png)
+![](Pixelart/pixelart_house_inside_girl_book_dog.png)
+![](Pixelart/nm3yo7ei4m471.png)
+![](Pixelart/k1u1c4yqg2j51.png)
+![](Pixelart/iu.png)
