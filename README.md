@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Wallpapers</h1>
   <h4>Format: PNG, JPG, GIF</h4>
-    [Aerial](https://github.com/anselscool/wallpapers/blob/main/README.md#aerial)
-    [Anime](https://github.com/anselscool/wallpapers/tree/main#anime)
-    [Cherry Blossoms](https://github.com/anselscool/wallpapers/tree/main#cherry-blossoms)
-    [Flowers](https://github.com/anselscool/wallpapers/tree/main#flowers)
-    [Gruv](https://github.com/anselscool/wallpapers/tree/main#gruv)
-    [Monochrome](https://github.com/anselscool/wallpapers/tree/main#monochrome)
-    [Nord](https://github.com/anselscool/wallpapers/tree/main#nord)
-    [Pixelart](https://github.com/anselscool/wallpapers/tree/main#pixelart)
-    [Other](https://github.com/anselscool/wallpapers/tree/main#other)
+  * [Aerial](#aerial)
+  * [Anime](#anime)
+  * [Cherry Blossoms](#cherry-blossoms)
+  * [Flowers](#flowers)
+  * [Gruv](#gruv)
+  * [Monochrome](#monochrome)
+  * [Nord](#nord)
+  * [Pixelart](#pixelart)
+  * [Other](#other)
 </div>
 
 ## Aerial
