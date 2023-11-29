@@ -3,15 +3,15 @@
   <h4>Format: PNG, JPG, GIF</h4>
   <br>
   <h4>
-    [Aerial](https://github.com/anselscool/wallpapers/tree/main#aerial)
-    [Anime](https://github.com/anselscool/wallpapers/tree/main#anime)
-    [Cherry Blossoms](https://github.com/anselscool/wallpapers/tree/main#cherry-blossoms)
-    [Flowers](https://github.com/anselscool/wallpapers/tree/main#flowers)
-    [Gruv](https://github.com/anselscool/wallpapers/tree/main#gruv)
-    [Monochrome](https://github.com/anselscool/wallpapers/tree/main#monochrome)
-    [Nord](https://github.com/anselscool/wallpapers/tree/main#nord)
-    [Pixelart](https://github.com/anselscool/wallpapers/tree/main#pixelart)
-    [Other](https://github.com/anselscool/wallpapers/tree/main#other)
+    [Aerial] (https://github.com/anselscool/wallpapers/tree/main#aerial)
+    [Anime] (https://github.com/anselscool/wallpapers/tree/main#anime)
+    [Cherry Blossoms] (https://github.com/anselscool/wallpapers/tree/main#cherry-blossoms)
+    [Flowers] (https://github.com/anselscool/wallpapers/tree/main#flowers)
+    [Gruv] (https://github.com/anselscool/wallpapers/tree/main#gruv)
+    [Monochrome] (https://github.com/anselscool/wallpapers/tree/main#monochrome)
+    [Nord] (https://github.com/anselscool/wallpapers/tree/main#nord)
+    [Pixelart] (https://github.com/anselscool/wallpapers/tree/main#pixelart)
+    [Other] (https://github.com/anselscool/wallpapers/tree/main#other)
   </h4>
 </div>
 
