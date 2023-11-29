@@ -1,6 +1,19 @@
 <div align="center">
   <h1>Wallpapers</h1>
   <h4>Format: PNG, JPG, GIF</h4>
+  <br>
+  <h4>
+    [Aerial](https://github.com/anselscool/wallpapers/tree/main#aerial)
+    [Anime](https://github.com/anselscool/wallpapers/tree/main#anime)
+    [Cherry Blossoms](https://github.com/anselscool/wallpapers/tree/main#cherry-blossoms)
+    [Flowers](https://github.com/anselscool/wallpapers/tree/main#flowers)
+    [Gruv](https://github.com/anselscool/wallpapers/tree/main#gruv)
+    [Monochrome](https://github.com/anselscool/wallpapers/tree/main#monochrome)
+    [Nord](https://github.com/anselscool/wallpapers/tree/main#nord)
+    [Pixelart](https://github.com/anselscool/wallpapers/tree/main#pixelart)
+    [Other](https://github.com/anselscool/wallpapers/tree/main#other)
+  
+  </h4>
 </div>
 
 ## Aerial
@@ -113,11 +126,11 @@
 ![](Nord/64m36y0xpf561.png)
 ![](Nord/87a56534ce3da08bf3c3ce7d4e451337.jpg)
 ![](Nord/9ltbmflkgrs61.jpg)
-![](Nord/At the coffeshop.png)
-![](Nord/Misty Mountain.jpg)
-![](Nord/Murky peaks.jpg)
-![](Nord/Nordified Darth Vader.png)
-![](Nord/Street Blues.png)
+![](Nord/At_the_coffeshop.png)
+![](Nord/Misty_Mountain.jpg)
+![](Nord/Murky_peaks.jpg)
+![](Nord/Nordified_Darth_Vader.png)
+![](Nord/Street_Blues.png)
 ![](Nord/a552da720bad97ee60246852c2be9f45.jpg)
 ![](Nord/archlinux.png)
 ![](Nord/astronaut-flying-full-nord.png)
