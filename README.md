@@ -2,7 +2,6 @@
   <h1>Wallpapers</h1>
   <h4>Format: PNG, JPG, GIF</h4>
   <br>
-  <h4>
     [Aerial] (https://github.com/anselscool/wallpapers/tree/main#aerial)
     [Anime] (https://github.com/anselscool/wallpapers/tree/main#anime)
     [Cherry Blossoms] (https://github.com/anselscool/wallpapers/tree/main#cherry-blossoms)
@@ -12,7 +11,6 @@
     [Nord] (https://github.com/anselscool/wallpapers/tree/main#nord)
     [Pixelart] (https://github.com/anselscool/wallpapers/tree/main#pixelart)
     [Other] (https://github.com/anselscool/wallpapers/tree/main#other)
-  </h4>
 </div>
 
 ## Aerial
