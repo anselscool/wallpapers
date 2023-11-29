@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Wallpapers</h1>
   <h4>Format: PNG, JPG, GIF</h4>
-    [Aerial](https://github.com/anselscool/wallpapers/tree/main#aerial)
+    [Aerial](https://github.com/anselscool/wallpapers/blob/main/README.md#aerial)
     [Anime](https://github.com/anselscool/wallpapers/tree/main#anime)
     [Cherry Blossoms](https://github.com/anselscool/wallpapers/tree/main#cherry-blossoms)
     [Flowers](https://github.com/anselscool/wallpapers/tree/main#flowers)
