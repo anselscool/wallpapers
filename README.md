@@ -12,7 +12,6 @@
     [Nord](https://github.com/anselscool/wallpapers/tree/main#nord)
     [Pixelart](https://github.com/anselscool/wallpapers/tree/main#pixelart)
     [Other](https://github.com/anselscool/wallpapers/tree/main#other)
-  
   </h4>
 </div>
 
