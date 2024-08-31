@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Wallpapers</h1>
-  <h4>Format: PNG, JPG, GIF</h4>
+# Wallpapers
+- Format: PNG, JPG, GIF
   * [Aerial](#aerial)
   * [Anime](#anime)
   * [Cherry Blossoms](#cherry-blossoms)
@@ -10,8 +9,6 @@
   * [Nord](#nord)
   * [Pixelart](#pixelart)
   * [Other](#other)
-</div>
-
 ## Aerial
 ![](Aerial/city.jpg)
 ![](Aerial/photo-1512407864998-0aafd285362d.jpg)
